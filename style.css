@@ -1,0 +1,123 @@
+.logo{
+    text-align: center;
+
+}
+.logob{
+    text-align: center;
+}
+.a{
+    text-align: center;
+    margin: 25px;
+
+}
+.b{
+    text-align: center;
+}
+.fondo_benavidez{
+background-image:url("italiaaaaaa.jpg");
+background-repeat: no-repeat;
+}
+.btn-group{
+    text-align: center;
+    width: 1020px;
+}
+.paquetes_viaje{
+    text-align: center;
+    padding: 100px;
+}
+
+.card{
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    margin: auto
+}
+.card2{
+    width: 70%;
+    display:grid;
+    justify-content: space-around;
+    margin: auto;
+}
+.card3{
+    width: 70%;
+    display:flex;
+    justify-content: space-around;
+    margin: auto;
+}
+.romaorden{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
+.paquete_roma{
+    text-align: center;
+}
+.roma.png{
+    text-align: center;
+}
+.pany.gif{
+    padding: 100px;
+}
+.niuyor{
+    background-image:url("nyfondo.jpg");
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 50px;
+}
+.bronx{
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    margin: auto
+}
+.helic{
+    width: 70%;
+    display:grid;
+    justify-content: space-around;
+    margin: auto;
+}
+.bic{
+    width: 70%;
+    display:grid;
+    justify-content: space-around;
+    margin: auto;
+}
+.cm{
+    background-color: black;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 50px;
+}
+.pp{
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    margin: auto
+}
+.alred{
+    width: 70%;
+    display:grid;
+    justify-content: space-around;
+    margin: auto;
+}
+.ciudsib{
+    width: 70%;
+    display:grid;
+    justify-content: space-around;
+    margin: auto;
+}
+.redes{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    padding: 5px 12px;
+    letter-spacing: 2px;
+    font-size: 18px;
+    font-weight: bold;
+    border: 3px solid #070707;
+}
+.btn-group4{
+    padding: 5px;
+}
